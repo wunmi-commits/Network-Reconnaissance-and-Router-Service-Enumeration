@@ -1,6 +1,6 @@
 # Network-Reconnaissance-and-Router-Service-Enumeration
 A hands-on cybersecurity project focused on network reconnaissance and router service enumeration using Kali Linux, Nmap, Netcat, and SNMP tools. Practised identifying open ports, investigating network services, and using Linux commands such as `find` and `grep` in an authorized lab environment.
-# Project 3: Network Reconnaissance and Router Service Enumeration
+## Network Reconnaissance and Router Service Enumeration
 
 ## Project Overview
 This project documents my hands-on cybersecurity investigation in the Operation Takeover lab. The objective was to identify exposed network services on a target router, investigate potential management interfaces, and determine the next steps required to access the router in an authorized lab environment.
